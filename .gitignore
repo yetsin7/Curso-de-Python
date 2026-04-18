@@ -1,0 +1,59 @@
+# Entornos virtuales
+venv/
+env/
+.env/
+.venv/
+
+# Variables de entorno
+.env
+*.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+*.ipynb
+
+# Archivos generados por los scripts de ejemplo (NO excluye la BD de la Biblia)
+*.db
+*.sqlite
+# *.sqlite3  ← comentado: la BD biblia_rv60.sqlite3 SÍ debe incluirse en el repo
+tareas.json
+usuarios.json
+productos.csv
+
+# Excluir SQLite3 generados por ejercicios, pero NO la Biblia
+16-bases-de-datos/*.sqlite3
+21-fastapi/*.sqlite3
+29-proyecto-biblia/*.sqlite3
+
+# Imágenes generadas por los scripts de Data Science
+*.png
+*.jpg
+!datos/*.png
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# pytest
+.pytest_cache/
+.coverage
+htmlcov/
+
+# mypy
+.mypy_cache/
+
+# Distribución / empaquetado
+dist/
+build/
+*.egg-info/

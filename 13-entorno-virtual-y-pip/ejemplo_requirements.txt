@@ -1,0 +1,62 @@
+# ==============================================================
+# requirements.txt — Dependencias del proyecto MiAplicacion
+# ==============================================================
+#
+# Cómo usar este archivo:
+#   pip install -r requirements.txt
+#
+# Cómo regenerarlo desde el entorno activo:
+#   pip freeze > requirements.txt
+#
+# IMPORTANTE: Este archivo debe subirse al repositorio.
+# La carpeta venv/ NO debe subirse (agrégala al .gitignore).
+# ==============================================================
+
+# --- Dependencias principales ---
+
+# Cliente HTTP para hacer requests a APIs externas
+# Versión exacta para garantizar comportamiento reproducible
+requests==2.31.0
+
+# Manipulación de datos en formato tabular (tablas, CSVs, etc.)
+# Usamos rango para aceptar parches de seguridad automáticamente
+numpy>=1.26.0,<2.0.0
+
+# Framework web ligero para la API REST
+Flask==3.0.0
+
+# ORM para base de datos - interacción con PostgreSQL/SQLite
+SQLAlchemy==2.0.23
+
+# Validación de datos y configuración (settings con tipos)
+pydantic==2.5.0
+
+# --- Dependencias de desarrollo (solo para el equipo) ---
+# Convención: separar dev deps con comentario claro
+# Para instalar solo las de producción, usa un archivo separado:
+#   requirements-prod.txt  → solo las de arriba
+#   requirements-dev.txt   → incluye requirements-prod.txt + las de abajo
+
+# Formateador de código - garantiza estilo consistente en el equipo
+black==23.11.0
+
+# Linter - detecta errores y malas prácticas en el código
+flake8==6.1.0
+
+# Verificador de tipos estáticos
+mypy==1.7.1
+
+# Framework de testing
+pytest==7.4.3
+pytest-cov==4.1.0  # Cobertura de código con pytest
+
+# --- Paquetes con URLs directas (cuando no están en PyPI) ---
+# Instalar desde un repositorio git (rama específica):
+# git+https://github.com/usuario/repo.git@main#egg=nombre_paquete
+
+# Instalar desde una ruta local (útil en monorepos):
+# -e ../mi-libreria-local
+
+# --- Incluir otro requirements.txt ---
+# Útil para dividir dependencias por ambiente:
+# -r requirements-base.txt
