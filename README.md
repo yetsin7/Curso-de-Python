@@ -1,79 +1,126 @@
 # 📘 Libro de Python — De cero a PRO
 
-> Libro practico para aprender Python paso a paso, entendiendo tanto la sintaxis
+> Libro práctico para aprender Python paso a paso, entendiendo tanto la sintaxis
 > como el comportamiento del programa dentro del sistema.
+
+🔗 Repositorio oficial: [github.com/yetsin7/curso-de-python](https://github.com/yetsin7/curso-de-python)
 
 ---
 
-## ¿Para quien es este libro?
+## 🇳🇮 Para estudiantes de Nicaragua (y de toda Latinoamérica)
 
-Este libro esta pensado para:
+Hola. Si estás leyendo esto desde Managua, León, Estelí, Matagalpa, Chinandega,
+Granada, Bluefields o cualquier rincón de Nicaragua, este libro es para ti.
+
+También es para cualquier estudiante o autodidacta de Centroamérica y
+Latinoamérica que quiera aprender a programar sin pagar cursos caros, sin
+suscripciones y sin necesidad de internet permanente.
+
+No importa si nunca has tocado código, si estudias en una universidad pública,
+si aprendes solo desde tu casa o si solo tienes una computadora prestada: aquí
+tienes un camino completo, ordenado y gratis para aprender Python en serio.
+
+## 💡 ¿Por qué existe este libro?
+
+La misión es simple: **que más nicaragüenses puedan aprender a programar**.
+
+En Nicaragua no siempre es fácil acceder a cursos pagados, certificaciones
+costosas o internet estable. Este libro nace para quitar esas barreras:
+
+- Es **100% gratuito**. No hay versión "premium" ni pago oculto.
+- **No requiere registro**. No pides correo, no creas cuenta, no das datos.
+- Funciona **sin internet** una vez clonado el repositorio.
+- **No exige conocimientos previos**. Se empieza desde cero, de verdad.
+- Está pensado para que cualquiera, con tiempo y disciplina, pueda llegar
+  desde lo básico hasta temas avanzados como APIs, bases de datos, ciencia de
+  datos e inteligencia artificial.
+
+Si este material te ayuda, **compártelo con otra persona** que esté empezando.
+Esa es la mejor forma de multiplicar el impacto.
+
+---
+
+## ¿Para quién es este libro?
+
+Este libro está pensado para:
 
 - personas que nunca han programado;
 - estudiantes que quieren una base clara y ordenada;
 - desarrolladores de otros lenguajes que quieren aprender Python bien;
-- personas curiosas que quieren entender como piensa un programa.
+- personas curiosas que quieren entender cómo piensa un programa.
 
 No necesitas experiencia previa. Solo necesitas tiempo, paciencia y ganas de
 practicar.
 
-## ¿Que vas a aprender realmente?
+## ¿Qué vas a aprender realmente?
 
-Al terminar este recorrido no solo deberias saber escribir Python. Tambien
-deberias poder explicar:
+Al terminar este recorrido no solo deberías saber escribir Python. También
+deberías poder explicar:
 
-- como entra informacion a un programa;
-- como se guarda temporalmente en memoria;
-- como se transforma con operaciones y decisiones;
-- como se muestra, guarda o envia el resultado;
-- como detectar errores y corregirlos.
+- cómo entra información a un programa;
+- cómo se guarda temporalmente en memoria;
+- cómo se transforma con operaciones y decisiones;
+- cómo se muestra, guarda o envía el resultado;
+- cómo detectar errores y corregirlos.
 
-Python es ideal para comenzar porque su sintaxis es amigable, pero tambien se
-usa en trabajo real: automatizacion, APIs, ciencia de datos, testing, IA y mas.
+Python es ideal para comenzar porque su sintaxis es amigable, pero también se
+usa en trabajo real: automatización, APIs, ciencia de datos, testing, IA y más.
 
-## Como estudiar este libro
+## Cómo estudiar este libro
 
 1. Abre `01-fundamentos/README.md`.
-2. Lee primero la explicacion general del capitulo.
-3. Abre los archivos `.py` en orden numerico.
-4. Ejecuta cada ejemplo y observa exactamente que cambia en la consola.
+2. Lee primero la explicación general del capítulo.
+3. Abre los archivos `.py` en orden numérico.
+4. Ejecuta cada ejemplo y observa exactamente qué cambia en la consola.
 5. Modifica valores y vuelve a ejecutar.
 6. Resuelve los ejercicios sin mirar la respuesta en el primer intento.
-7. Explica con tus palabras que paso y por que paso.
+7. Explica con tus palabras qué pasó y por qué pasó.
 
-> Sugerencia: no avances por velocidad. Avanza por comprension.
+> Sugerencia: no avances por velocidad. Avanza por comprensión.
 
-## Que ocurre en la computadora cuando ejecutas Python
+## Qué ocurre en la computadora cuando ejecutas Python
 
 Cuando corres un archivo `.py`:
 
-- el sistema operativo abre el interprete de Python;
+- el sistema operativo abre el intérprete de Python;
 - Python lee tu archivo como texto;
 - analiza la sintaxis;
 - crea objetos en memoria;
 - ejecuta instrucciones en orden;
-- muestra resultados en la consola o interactua con archivos, red o base de
-  datos segun tu codigo.
+- muestra resultados en la consola o interactúa con archivos, red o base de
+  datos según tu código.
 
-Aunque Python se sienta "facil", por debajo siguen ocurriendo procesos reales de
+Aunque Python se sienta "fácil", por debajo siguen ocurriendo procesos reales de
 CPU, memoria RAM, almacenamiento y entrada/salida.
 
 ## Requisitos
 
 - **Python** instalado
-- **VS Code** o cualquier editor comodo
+- **VS Code** o cualquier editor cómodo
 - curiosidad para ejecutar, romper y corregir ejemplos
 
 ### Instalar Python
 
 1. Ve a [https://www.python.org/downloads/](https://www.python.org/downloads/)
-2. Descarga una version reciente y estable
-3. Durante la instalacion marca `Add Python to PATH`
+2. Descarga una versión reciente y estable
+3. Durante la instalación marca `Add Python to PATH`
 4. Verifica en terminal:
 
 ```bash
 python --version
 ```
+
+### Estudiar sin internet (offline)
+
+Una vez clones este repositorio, ya no necesitas conexión para estudiar:
+
+```bash
+git clone https://github.com/yetsin7/curso-de-python.git
+cd curso-de-python
+```
+
+Todo el contenido queda guardado en tu computadora. Ideal para estudiar desde
+casa, en la universidad, en un cyber o donde el internet no siempre alcanza.
 
 ## Estructura del libro
 
@@ -119,12 +166,12 @@ python --version
 
 ---
 
-## Como aprovechar mejor cada tema
+## Cómo aprovechar mejor cada tema
 
-- Escribe el codigo a mano para que tu cerebro relacione sintaxis y accion.
-- Observa la salida antes de leer la explicacion final.
+- Escribe el código a mano para que tu cerebro relacione sintaxis y acción.
+- Observa la salida antes de leer la explicación final.
 - Si aparece un error, no lo veas como fracaso: es una pista.
-- Intenta predecir que pasara antes de ejecutar.
+- Intenta predecir qué pasará antes de ejecutar.
 - Relaciona cada variable con un dato que vive en memoria.
 - Relaciona cada `print()` con una salida visible del software.
 
@@ -132,11 +179,33 @@ python --version
 
 - Ejecutar sin leer comentarios ni contexto.
 - Copiar y pegar sin entender.
-- Saltar capitulos porque "parecen faciles".
+- Saltar capítulos porque "parecen fáciles".
 - Asustarse por los errores de sintaxis.
 - No experimentar por miedo a romper algo.
 
-En este libro puedes romper ejemplos con confianza: asi tambien se aprende.
+En este libro puedes romper ejemplos con confianza: así también se aprende.
+
+---
+
+## 🤝 Cómo apoyar este proyecto
+
+Este libro es gratis y siempre lo será. Si quieres ayudar a que llegue a más
+estudiantes en Nicaragua y Latinoamérica, puedes hacer cualquiera de estas
+cosas (todas suman):
+
+- ⭐ **Dale una estrella** al repositorio en GitHub. Eso lo hace más visible
+  para otras personas que estén buscando recursos para aprender.
+- 📣 **Compártelo** con amigos, compañeros de clase, profesores, grupos de
+  WhatsApp, redes sociales o cualquier persona que esté empezando a programar.
+- 🐛 **Abre un issue** si encuentras un error, una explicación poco clara o
+  algo que se pueda mejorar:
+  [github.com/yetsin7/curso-de-python/issues](https://github.com/yetsin7/curso-de-python/issues)
+- 🛠️ **Manda un pull request** si quieres aportar mejoras: corregir
+  ejemplos, agregar ejercicios, mejorar redacción, traducir secciones o
+  añadir contenido nuevo. Toda contribución es bienvenida.
+
+Cada estrella, cada compartida y cada aporte ayuda a que más nicaragüenses
+puedan aprender a programar gratis.
 
 ---
 
@@ -147,4 +216,4 @@ Puedes usarlo, compartirlo, modificarlo y distribuirlo sin restricciones.
 
 ---
 
-Hecho para que aprender Python sea claro, profundo y accesible.
+Hecho en Nicaragua 🇳🇮 por [Yetsin](https://github.com/yetsin7), para que aprender Python sea claro, profundo y accesible para todos.
