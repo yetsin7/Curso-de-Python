@@ -3,7 +3,7 @@
 > Libro práctico para aprender Python paso a paso, entendiendo tanto la sintaxis
 > como el comportamiento del programa dentro del sistema.
 
-🔗 Repositorio oficial: [github.com/yetsin7/curso-de-python](https://github.com/yetsin7/curso-de-python)
+🔗 Repositorio oficial: [github.com/yetsin7/Curso-de-Python](https://github.com/yetsin7/Curso-de-Python)
 
 ---
 
@@ -115,8 +115,8 @@ python --version
 Una vez clones este repositorio, ya no necesitas conexión para estudiar:
 
 ```bash
-git clone https://github.com/yetsin7/curso-de-python.git
-cd curso-de-python
+git clone https://github.com/yetsin7/Curso-de-Python.git
+cd Curso-de-Python
 ```
 
 Todo el contenido queda guardado en tu computadora. Ideal para estudiar desde
@@ -199,7 +199,7 @@ cosas (todas suman):
   WhatsApp, redes sociales o cualquier persona que esté empezando a programar.
 - 🐛 **Abre un issue** si encuentras un error, una explicación poco clara o
   algo que se pueda mejorar:
-  [github.com/yetsin7/curso-de-python/issues](https://github.com/yetsin7/curso-de-python/issues)
+[github.com/yetsin7/Curso-de-Python/issues](https://github.com/yetsin7/Curso-de-Python/issues)
 - 🛠️ **Manda un pull request** si quieres aportar mejoras: corregir
   ejemplos, agregar ejercicios, mejorar redacción, traducir secciones o
   añadir contenido nuevo. Toda contribución es bienvenida.
