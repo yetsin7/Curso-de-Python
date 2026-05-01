@@ -7,7 +7,7 @@
 
 ## Documentacion de referencia
 
-Consulta [DOCUMENTACION-OFICIAL.md](./DOCUMENTACION-OFICIAL.md) para tener la
+Consulta [Documentación-Python.md](./Documentación-Python.md) para tener la
 documentacion oficial de Python siempre a mano mientras estudias.
 
 ---
