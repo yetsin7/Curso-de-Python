@@ -41,7 +41,7 @@ from datetime import datetime
 # FastAPI() crea la instancia principal de la aplicación
 # Los parámetros son metadata que aparece en la documentación automática
 app = FastAPI(
-    title="API del Libro de Python",
+    title="API del Curso de Python",
     description="""
     API de ejemplo para aprender FastAPI.
 
@@ -55,7 +55,7 @@ app = FastAPI(
     version="1.0.0",
     # contact y license son metadata para la documentación
     contact={
-        "name": "Libro de Python",
+        "name": "Curso de Python",
         "url": "https://github.com/tu-usuario/libro-python",
     },
 )
@@ -156,7 +156,7 @@ def raiz():
     También puedes retornar Pydantic models — FastAPI los serializa.
     """
     return {
-        "mensaje": "API del Libro de Python funcionando",
+        "mensaje": "API del Curso de Python funcionando",
         "version": "1.0.0",
         "documentacion": "/docs",
     }

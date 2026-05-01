@@ -73,4 +73,4 @@ Aprenderás más en un proyecto real que en 10 tutoriales.
 
 ---
 
-*¡Felicitaciones por completar el Libro de Python!* 🎉
+*¡Felicitaciones por completar el Curso de Python!* 🎉

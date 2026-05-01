@@ -214,7 +214,7 @@ API REST de gestión de libros.
 - Validación con Pydantic
 - Error handling centralizado
         """,
-        contact={"name": "Libro de Python", "url": "https://github.com/ejemplo"},
+        contact={"name": "Curso de Python", "url": "https://github.com/ejemplo"},
         license_info={"name": "MIT"},
     )
 

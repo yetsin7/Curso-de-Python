@@ -1,4 +1,4 @@
-# Carpeta `datos/` — Recursos del Libro de Python
+# Carpeta `datos/` — Recursos del Curso de Python
 
 Esta carpeta contiene la base de datos local de este curso. Este repositorio ya
 no depende de un monorepo compartido: aquí vive su propia copia de

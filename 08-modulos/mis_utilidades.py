@@ -53,5 +53,5 @@ def limitar(valor, minimo, maximo):
 
 
 # Variable del módulo (accesible con mis_utilidades.AUTOR)
-AUTOR = "Libro de Python"
+AUTOR = "Curso de Python"
 VERSION = "1.0"

@@ -308,7 +308,7 @@ INSTALAR TODOS DE UNA:
 """)
 
 print("\n" + "=" * 65)
-print("Fin del Capítulo 25 — ¡Has completado el Libro de Python!")
+print("Fin del Capítulo 25 — ¡Has completado el Curso de Python!")
 print("=" * 65)
 print("""
 RESUMEN DE LO APRENDIDO EN LOS CAPÍTULOS 22-25:

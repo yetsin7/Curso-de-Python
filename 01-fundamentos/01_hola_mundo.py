@@ -24,7 +24,7 @@ print("Hola, mundo!")
 
 # Las comillas indican que esto es texto.
 # En programacion, un texto se llama string o cadena de caracteres.
-print("Bienvenido al Libro de Python")
+print("Bienvenido al Curso de Python")
 
 # Python tambien puede mostrar numeros sin problema.
 # Aqui no hay comillas porque queremos imprimir valores numericos reales,

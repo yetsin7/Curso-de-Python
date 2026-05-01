@@ -300,7 +300,7 @@ def ejecutar_archivos(args):
 def ejecutar_info(args):
     """Procesa el subcomando 'info'."""
     print("filetool v1.0.0 — Herramienta de archivos en Python")
-    print("Autor: Libro de Python — Capítulo 25")
+    print("Autor: Curso de Python — Capítulo 25")
     print("Python:", sys.version)
 
 

@@ -325,7 +325,7 @@ def main():
 
         print("╔═══════════════════════════════════════╗")
         print("║        GESTOR DE TAREAS               ║")
-        print("║        Libro de Python                ║")
+        print("║        Curso de Python                ║")
         print("╠═══════════════════════════════════════╣")
         print("║  1. Ver todas las tareas              ║")
         print("║  2. Ver solo pendientes               ║")

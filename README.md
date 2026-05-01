@@ -1,4 +1,4 @@
-# 📘 Libro de Python — De cero a PRO
+# 📘 Curso de Python — De cero a PRO
 
 > Libro práctico para aprender Python paso a paso, entendiendo tanto la sintaxis
 > como el comportamiento del programa dentro del sistema.
