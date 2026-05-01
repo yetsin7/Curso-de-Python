@@ -5,6 +5,11 @@
 
 🔗 Repositorio oficial: [github.com/yetsin7/Curso-de-Python](https://github.com/yetsin7/Curso-de-Python)
 
+## Documentacion de referencia
+
+Consulta [DOCUMENTACION-OFICIAL.md](./DOCUMENTACION-OFICIAL.md) para tener la
+documentacion oficial de Python siempre a mano mientras estudias.
+
 ---
 
 ## 🇳🇮 Para estudiantes de Nicaragua (y de toda Latinoamérica)
